@@ -34,7 +34,7 @@ A comprehensive, AI-powered stock market dashboard that combines advanced techni
 - **Interactive Charts** - Zoom, pan, and explore data
 - **Organized Tabs** - Clean separation of different analysis types
 
-![Technical Analysis](screenshots/technical_analysis.jpg)
+![Technical Analysis](screenshots/technical_analysis.png)
 
 
 ## 🚀 Quick Start

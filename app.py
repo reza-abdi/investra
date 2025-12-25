@@ -6,16 +6,17 @@ from charts import create_advanced_chart
 from metrics import create_performance_metrics
 import plotly.express as px
 
-# Configure Streamlit page
-st.set_page_config(
+
+
+# Streamlit App
+def main():
+    # Configure Streamlit page
+    st.set_page_config(
     page_title="AI Stock Market Dashboard",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
-# Streamlit App
-def main():
     st.title("🚀 Professional AI Stock Market Dashboard")
     st.markdown("*Advanced technical analysis with machine learning predictions*")
 

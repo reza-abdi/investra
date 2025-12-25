@@ -37,3 +37,12 @@ A comprehensive, AI-powered stock market dashboard that combines advanced techni
 ![Technical Analysis](screenshots/technical_analysis.jpg)
 
 
+## 🚀 Quick Start
+
+### Prerequisites
+
+```bash
+Python 3.8 or higher
+```
+
+

@@ -5,5 +5,5 @@
 A comprehensive, AI-powered stock market dashboard that combines advanced technical analysis, machine learning price predictions, and intelligent market insights in a beautiful, interactive interface.
 
 
-
+![Main Dashboard](screenshots/whole_dashboard.png)
 

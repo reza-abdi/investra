@@ -4,3 +4,36 @@
 
 A comprehensive, AI-powered stock market dashboard that combines advanced technical analysis, machine learning price predictions, and intelligent market insights in a beautiful, interactive interface.
 
+
+![Main Dashboard](screenshots/whole_dashboard.png)
+
+
+## ✨ Features
+
+### 🤖 **Artificial Intelligence**
+- **Machine Learning Price Prediction** - Random Forest model with 30+ technical features
+- **AI Market Analysis** - Natural language insights based on technical indicators
+- **Feature Importance Analysis** - Understand what drives price movements
+- **Model Performance Metrics** - Train/test accuracy with confidence levels
+
+### 📈 **Advanced Technical Analysis**
+- **Professional Charts** - Multi-panel candlestick charts with technical overlays
+- **20+ Technical Indicators** - RSI, MACD, Bollinger Bands, Moving Averages, Stochastic
+- **Volume Analysis** - Volume trends and confirmation signals
+- **Performance Metrics** - Sharpe ratio, volatility, maximum drawdown
+
+### 🎯 **Real-Time Data**
+- **Live Stock Data** - Real-time prices from Yahoo Finance
+- **Multiple Timeframes** - 1M to 5Y analysis periods
+- **Popular Stock Presets** - Quick access to FAANG+ stocks
+- **Custom Symbol Input** - Analyze any publicly traded stock
+
+### 🎨 **Professional Interface**
+- **Dark Theme** - Easy on the eyes for extended analysis
+- **Responsive Design** - Works perfectly on desktop and mobile
+- **Interactive Charts** - Zoom, pan, and explore data
+- **Organized Tabs** - Clean separation of different analysis types
+
+![Technical Analysis](screenshots/technical_analysis.jpg)
+
+

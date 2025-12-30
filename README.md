@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Stock Market Dashboard
+# 🚀 Investra: AI-Powered Stock Market Dashboard
 
 > **Professional-grade stock analysis with machine learning predictions and real-time technical indicators**
 
